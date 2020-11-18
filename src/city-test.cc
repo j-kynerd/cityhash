@@ -21,7 +21,7 @@
 #include <cstdio>
 #include <iostream>
 #include <string.h>
-#include "city.h"
+#include "../../city.h"
 #ifdef __SSE4_2__
 #include "citycrc.h"
 #endif
